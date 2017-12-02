@@ -26,7 +26,7 @@ transition: .3s background-color;
 }
 
 .nav a:hover {
-background-color: #005f5f;
+background-color: steelblue;
 }
 
 .nav a.active {
@@ -37,8 +37,13 @@ cursor: default;
 
 .main {
     padding: 3em;
-    background-color: #ccc;
+    background-color: steelblue;
+    color: white;
     text-align: center;
+}
+
+a {
+    color: white;
 }
 
 .coretext {
