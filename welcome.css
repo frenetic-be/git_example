@@ -57,8 +57,12 @@ a {
 
 li.listitem {
     line-height: 1.5em;
-    text-align: left;
+    text-align: center;
     list-style-type: none;
+}
+
+img {
+    padding-top: 2em;
 }
 
 footer {
