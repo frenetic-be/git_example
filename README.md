@@ -1,0 +1,1 @@
+Simple repository example to teach git basics (add, commit, branch, merge).
